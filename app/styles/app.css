@@ -1,0 +1,5 @@
+.example {
+	background-color: #ff0;
+	width: var(--foo);
+	height: 100px;
+}
